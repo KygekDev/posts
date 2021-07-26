@@ -1,1 +1,38 @@
-remote_theme: dyutibarma/monochrome
+# Site settings
+title: Posts by KygekDev
+description: Posts by KygekDev
+url: https://kygekdev.github.io/posts
+
+# Build settings
+baseurl: /posts # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 10
+paginate_path: /page-:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Custom variables
+version: "1.0.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false

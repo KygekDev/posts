@@ -1,7 +1,7 @@
 # Site settings
 title: Posts by KygekDev
 description: Posts by KygekDev
-url: https://kygekdev.github.io/posts
+url: https://kygekdev.github.io
 
 # Build settings
 baseurl: /posts # Change this to your relative path (ex: /blog/), or leave just a /

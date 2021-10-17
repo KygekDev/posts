@@ -3,8 +3,6 @@ title: If Something Seems Too Good to Be True, Then It Is
 description: This post warns people that nothing ever comes easy and instantly
 header: If Something Seems Too Good to Be True, Then It Is
 ---
-# If Something Seems Too Good to Be True, Then It Is
-
 > If something seems too good to be true, then it is.
 
 Nothing really, really ever comes easy and instantly without any struggles.

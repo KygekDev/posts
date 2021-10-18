@@ -25,9 +25,11 @@ defaults:
 gems:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-analytics
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-analytics
 
 # Custom variables
 version: "1.0.0"
@@ -36,3 +38,9 @@ version: "1.0.0"
 custom_header: false
 custom_nav_footer: false
 reverse: false
+
+# Analytics
+jekyll_analytics:
+  GoogleAnalytics:
+    id: UA-179045405-5
+    anonymizeIp: true   # Privacy

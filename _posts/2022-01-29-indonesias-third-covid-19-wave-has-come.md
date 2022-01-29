@@ -36,6 +36,7 @@ We must prepare ourselves to face the third wave of COVID-19, by taking the foll
 - Maintain physical distancing, at least 1.5 meters from others
 - Maintain good airflow in indoor spaces
 - Avoid touching eyes, nose and mouth with unwashed hands
+- Avoid taking off you face mask indoors; prefer eating and drinking outdoors or in the car
 - Get vaccinated if you haven't already
 - Limit social contact with others; stay at home as much as possible
 - Stay at home if you feel unwell

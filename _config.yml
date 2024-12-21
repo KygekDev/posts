@@ -26,13 +26,17 @@ gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-analytics
+  - jekyll-multiple-languages-plugin
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-analytics
+  - jekyll-multiple-languages-plugin
 
 # Custom variables
 version: "1.0.0"
+languages: ["en", "id", "fr", "es", "ru", "tr", "zh", "ko", "ja"]
+exclude_from_localizations: ["javascript", "images", "css"]
 
 # Options
 custom_header: false
